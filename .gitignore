@@ -1,0 +1,13 @@
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+
+# Sidecar files ArcGIS Pro can write next to image exports
+*.aux.xml
+*.pgw
+*.jgw
